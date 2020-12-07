@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="PracticaDataBases:jar" />
+    </artifacts-to-build>
+  </component>
   <component name="BranchesTreeState">
     <expand>
       <path>
@@ -20,31 +25,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="07f252e7-3bc3-4101-8aab-eda0ed102a13" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_32_3_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/sqlite_jdbc_3_32_3_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/DataBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/DataBase.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$17.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$4.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$5.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$6.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$7.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$8.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$9.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI$9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/PracticaDataBases/GUI.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DataBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PracticaDataBases.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticaDataBases.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +54,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Problems" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/commons-lang3-3.8.1.jar" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />

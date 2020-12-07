@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PracticaDataBases:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PracticaDataBases_jar</output-path>
+    <root id="archive" name="PracticaDataBases.jar">
+      <element id="module-output" name="PracticaDataBases" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mysql-connector.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/mysql-connector-java-8.0.22.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/ucanaccess-5.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/jackcess-3.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/hsqldb-2.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/commons-logging-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/commons-lang3-3.8.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/src/sqlite-jdbc-3.32.3.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
