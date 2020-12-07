@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="sqlite-jdbc-3.32.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/sqlite-jdbc-3.32.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/commons-lang3-3.8.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/hsqldb-2.5.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/jackcess-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/ucanaccess-5.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/mysql-connector-java-8.0.22.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
